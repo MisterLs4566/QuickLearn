@@ -10,28 +10,54 @@
   </head>
   <body>
     <header>
-        <div id="logo">
+        <div>
             <a href="#">
-                <img src="Logo.jpg" alt="Logo" id="bild">
+                <img src="Logo.jpg" alt="Logo">
             </a>
                 <p>Quick-Learn</p>
-        </div>
-        
-        <nav id="main-nav">
-            <i class="fa-bars"> 
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5k6LjTjX1VWrTtGXxBD4dysq_TV9v0ZdUjw4Cqj-eDNe9homJ2ME6Wklra0h-wrMqbNA&usqp=CAU" alt="toggel" id="down">
-            </i>
-                <ul>
-                    <li class="ulli"><a href="#main1">Start</a></li>
-                    <li class="ulli"><a href="#main2">About</a></li>
-                    <li class="ulli"><a href="#main3">Fach berechnen</a></li>
-                    <li class="ulli"><a href="#main4">Abischnitt berechnen</a></li>
-                    <li class="ulli"><a href="#main5">Get our Web-App</a></li>
-                    <li class="ulli"><a href="#main6">Contact</a></li>
+        </div>     
+        <nav>
+                  <ul>
+                    <li ><a href="">Dashboad</a></li>
+                    <li ><a href="">New</a></li>
+                    <li ><a href="">About</a></li>
+                    <li ><a href="">Contact</a></li>
+                    <li ><a href="">Profile</a></li>
                  </ul>
         </nav>
     </header>
+    <section>
+        <h1>Willkommen Zurück!</h1>
+        <div>
+          <h1>Lernset erstellen </h1>
+          <h1>Meine Lernsets</h1>
+        </div>
+        <h1>neustes Lernset üben</h1>
+    </section>
+
+    <footer>
+      <a href="">
+        <p>
+          Impressum 
+        </p>
+      </a
+    </footer>
+
+
+        
+
+
+
+
+
+
+    
+
+  
+
 
   </body>
 </html>
+
+
 
