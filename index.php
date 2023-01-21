@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html lang="de">
+<DOCTYPE html lang="de">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Titel</title>
     <link rel="stylesheet" href="styles/style.css"></link>
-
+    <link rel="apple-touch-icon" href="icons/icon.png">
+    <link rel="icon" href="icons/icon.png">
 
   </head>
   <body>
@@ -58,6 +58,3 @@
 
   </body>
 </html>
-
-
-
